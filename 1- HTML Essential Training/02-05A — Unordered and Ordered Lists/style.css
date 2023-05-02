@@ -1,0 +1,10 @@
+html {
+  font-size: 150%;
+  font-family: avenir;
+  margin: 2em;
+}
+ul,
+ol,
+dl {
+  margin-bottom: 3em;
+}
