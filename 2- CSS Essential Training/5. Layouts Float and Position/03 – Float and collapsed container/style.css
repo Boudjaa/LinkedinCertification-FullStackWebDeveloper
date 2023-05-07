@@ -2,19 +2,19 @@
   content: "";
   display: table;
   clear: both;
-}
+} /* 1 */
 .container {
   border: 2px solid black;
   width: 500px;
   margin: 0 auto;
-  /*   overflow: hidden; */
-  /*   display: flow-root; */
+  /* overflow: hidden; */ /* 2 */
+  /* display: flow-root; */ /* 3 */
 }
 .float {
   background: lightblue;
   border: 1px solid white;
   height: 60px;
   width: 60px;
-  padding: 10px;
-  /*   float: left; */
+  padding: 20px;
+  float: left;
 }

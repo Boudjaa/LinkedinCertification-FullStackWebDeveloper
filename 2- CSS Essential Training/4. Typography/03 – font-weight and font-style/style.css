@@ -4,9 +4,9 @@ header {
   font-style: oblique;
 }
 header h1 {
-  /*   font-weight: 400; */
-  /*   font-weight: normal; */
+  font-weight: 400;
+  font-weight: normal;
 }
 i {
-  /*   font-style: normal; */
+  font-style: normal;
 }

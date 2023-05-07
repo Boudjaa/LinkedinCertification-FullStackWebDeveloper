@@ -1,9 +1,9 @@
 html {
-  /*   font-size: 2rem; */
+  font-size: 2rem;
 }
 .parent {
-  /*   font-size: 2em; */
+  font-size: 20px;
 }
 .child {
-  /*   font-size: 2em; */
+  font-size: 1rem;
 }

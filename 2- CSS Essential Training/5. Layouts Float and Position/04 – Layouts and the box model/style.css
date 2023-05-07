@@ -3,12 +3,14 @@ https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 */
 
-/* html {
+html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
-} */
+}
 
 .wrapper {
   font-size: 20px;
@@ -23,16 +25,16 @@ footer {
 aside {
   background: lightblue;
   height: 250px;
-  /*   width: 200px; */
-  /*   float: left; */
+  width: 200px;
+  float: left;
 }
 article {
   background: lightgreen;
   height: 250px;
-  /*   width: 600px; */
-  /*   float: left; */
-  /*   padding: 20px; */
+  width: 600px;
+  float: left;
+  padding: 20px;
 }
 footer {
-  /*   clear: both; */
+  clear: both;
 }

@@ -10,6 +10,7 @@ body {
 .block1 {
   display: none;
   background: pink;
+  z-index: 100;
 }
 .block2 {
   display: none;
