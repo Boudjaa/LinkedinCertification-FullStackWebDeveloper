@@ -10,5 +10,5 @@ Get the skills to work with both back-end and front-end technologies as a full-s
 <b> Explore: </b> core server languages like PHP, Node.js, .NET,and Ruby on Rails.
 <br>
 
- <b>Verify this certification at: </b> <a href="https://www.linkedin.com/learning/certificates/cd4d0ee95f044aa99f526bab28ae668f064b905b20535f8bbaf9f2d068883167" target="_blank"> https://www.linkedin.com/learning/certificates/cd4d0ee95f044aa99f526bab28ae668f064b905b20535f8bbaf9f2d068883167 </a> <br>
+ <b>Verify this certification at: </b> <a target="_blank" href="https://www.linkedin.com/learning/certificates/cd4d0ee95f044aa99f526bab28ae668f064b905b20535f8bbaf9f2d068883167"> https://www.linkedin.com/learning/certificates/cd4d0ee95f044aa99f526bab28ae668f064b905b20535f8bbaf9f2d068883167 </a> <br>
 <center> <img src="https://i.imgur.com/qP2128C.png" width="80%" alt="Linkedin Full Stack Web Developer Course"> </<center>
